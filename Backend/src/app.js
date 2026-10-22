@@ -20,6 +20,9 @@ const interviewRouter = require("./routes/interview.routes")
 app.use("/api/auth", authRouter)
 app.use("/api/interview", interviewRouter)
 
-
+/* root route */
+app.get("/", (req, res) => {
+    res.send("Interview AI API is running 🚀")
+})
 
 module.exports = app
