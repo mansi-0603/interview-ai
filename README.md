@@ -147,10 +147,6 @@ The app runs on `http://localhost:5173`.
 
 ![API running](assets/api.png)
 
-## Credits
-
-Original tutorial and base project by [Ankur](https://github.com/ankurdotio/interview-ai-yt).
-
 ## License
 
-For learning and portfolio purposes. The original repository does not specify a license.
+MIT LIcense
